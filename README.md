@@ -4,4 +4,4 @@
 
 <p><img align="left" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinsoft&show_icons=true&locale=en&layout=compact" alt="moinsoft" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=moinsoft&show_icons=true&locale=en" alt="moinsoft" /></p>
+<p>&nbsp;<img align="right" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=moinsoft&show_icons=true&locale=en" alt="moinsoft" /></p>
