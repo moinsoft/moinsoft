@@ -2,6 +2,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/moinsoft)
 
-<p><img align="left" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinsoft&show_icons=true&locale=en&layout=compact" alt="moinsoft" /></p>
+<p><img align="left" style="width: 360px; height: 200px; margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinsoft&show_icons=true&locale=en&layout=compact" alt="moinsoft" /></p>
 
-<p>&nbsp;<img align="right" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=moinsoft&show_icons=true&locale=en" alt="moinsoft" /></p>
+<p>&nbsp;<img align="left" style="width: 360px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=moinsoft&show_icons=true&locale=en" alt="moinsoft" /></p>
