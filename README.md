@@ -10,7 +10,7 @@
 
 </div>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=moinsoft&show_icons=true&locale=en" alt="Mohammad Moin Uddin's Github Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinsoft" alt="moinsoft" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=moinsoft&show_icons=true&locale=en&hide_border=true" alt="Mohammad Moin Uddin's Github Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinsoft&hide_border=true" alt="moinsoft" /> |
 | ------------- | ------------- |
 
 <div align="center">
