@@ -1,0 +1,8 @@
+# VS Code Workspace
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
